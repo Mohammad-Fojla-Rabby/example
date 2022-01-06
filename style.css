@@ -87,11 +87,30 @@ background-position-x: right;
     margin-bottom: 50px;
 
 }
-.third-second{
+.third-first{
  box-shadow: 10px 10px 40px gray;
  width: 40%;
  margin-left: 5%;
  margin-right: 5%;
  border-radius: 10px;
  padding: 40px;
+border-image: linear-gradient(rgb(235, 11, 85), tomato) ;
+border-image-slice: 1;
+border-left: 10px solid;
+
 }
+.third-second{
+    box-shadow: 10px 10px 40px gray;
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 10px;
+    padding: 40px;
+    border-image: linear-gradient(rgb(229, 8, 236), rgb(0, 221, 255)) ;
+border-image-slice: 1;
+border-left: 10px solid;
+
+ }
+ footer p{
+     text-align: center;
+ }
