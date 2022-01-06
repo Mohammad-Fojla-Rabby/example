@@ -1,0 +1,76 @@
+
+
+
+body{
+    font-family: 'Poppins', sans-serif;
+    }
+h1{
+    font-size: 50px;
+    word-wrap: 10px;
+}
+.text{  
+    text-justify: auto;
+    text-align: justify;
+    margin-right: 100px;
+ 
+   
+
+}
+
+.orange-color{color: orange;}
+
+section
+{display: flex;
+    margin-bottom: 150px;
+}
+.half-with{
+   width: 50%;
+}
+  .half-with img{
+      width: 80%;
+      padding-right: 8%;
+
+
+  }
+ .anchor-button{
+     text-decoration: none;
+     background-image: linear-gradient(lightsalmon,tomato);
+     padding: 10px 40px;
+     border-radius: 5px;
+    color: white;
+    font-weight: 700;
+ }
+
+ .top-banner{
+     background-image: url(images/top-banner.png);
+     background-repeat: no-repeat;
+
+ }
+ body{margin: 0px;}
+ .portfolio{
+     display: flex;
+     background-image: url(images/exp-bg.png);
+   background-repeat: no-repeat; 
+ }
+ .half-width{
+     width: 50%;
+   
+    
+
+ }
+ .half-width img{ 
+     width: 85%;
+    
+ }  
+ .text1{
+     margin-left: 130px;
+     text-size-adjust: none;
+ }
+
+
+.text{
+    background-image: url(images/screenshot.jpg);
+background-position-x: right;
+   background-repeat: no-repeat;
+
+}
